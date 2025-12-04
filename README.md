@@ -12,7 +12,7 @@ I'm Paweł, a computer science student passionate about databases, Java, and sof
 ---
 
 **Key facts**
-* 👨‍🎓 I'm a **3rd-year** computer science student at the AGH University of Science and Technology in Cracow
+* 👨‍🎓 I'm a **3rd-year** computer science student at the AGH University of Krakow
 * 🧑🏻‍💻 I enjoy coding, exploring new technologies and developing projects from start to finish.
 * ⏰ In my free time, I enjoy going to gym 🏋, watching serials 📺 and reading books 📖 (especially crime and fantasy). I'm also very interested in many sports like F1 🏎️, tennis 🎾 and footbal ⚽️.
 
