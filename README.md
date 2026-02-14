@@ -31,7 +31,7 @@ I'm Paweł, a computer science student passionate about databases, Java, and sof
 <div align="center">
 
 ## 🚀 Languages that I know
-[![Languages](https://skillicons.dev/icons?i=java,python,rust,html,css&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,rust,html,css,javascript&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -41,7 +41,7 @@ I'm Paweł, a computer science student passionate about databases, Java, and sof
 
 ## ⚒️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=git,docker,github,maven,idea,postgres,spring,sqlite,vscode&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,docker,github,maven,idea,postgres,spring,sqlite,vscode,gradle&theme=light)](https://skillicons.dev)
 
 </div>
 
